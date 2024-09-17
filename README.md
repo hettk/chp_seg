@@ -1,5 +1,8 @@
 # Choroid plexus segmentation
 
+
+## This is a fork of https://github.com/Center-of-Imaging-Biomarker-Development/chp_seg all new updates will be released on https://github.com/Center-of-Imaging-Biomarker-Development/chp_seg 
+
 Segmentation tool for the delineation and volumetric quantification of the choroid plexus
 
 ## Quick Start Instructions
